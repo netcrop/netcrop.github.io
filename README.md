@@ -1,2 +1,2 @@
 
-![Alt text](https://github.com/netcrop/netcrop.github.io/tree/master/misc/netcrop.png?raw=true "")
+![Alt text](https://raw.github.com/netcrop/netcrop.github.io/master/misc/netcrop.png)
